@@ -1,0 +1,28 @@
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\bin\Debug\[Prj][WPF] Game - Save the Human2.exe.config
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\bin\Debug\[Prj][WPF] Game - Save the Human2.exe
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\bin\Debug\[Prj][WPF] Game - Save the Human2.pdb
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.csprojResolveAssemblyReference.cache
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\MainWindow.g.cs
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\App.g.cs
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2_MarkupCompile.cache
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2_MarkupCompile.lref
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\MainWindow.baml
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.g.resources
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\_Prj__WPF__Game___Save_the_Human2.Properties.Resources.resources
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.csproj.GenerateResource.Cache
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.exe
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Save the Human2\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.pdb
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\bin\Debug\[Prj][WPF] Game - Save the Human2.exe.config
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.exe
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.pdb
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\bin\Debug\[Prj][WPF] Game - Save the Human2.exe
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\bin\Debug\[Prj][WPF] Game - Save the Human2.pdb
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.csprojResolveAssemblyReference.cache
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\MainWindow.g.cs
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\App.g.cs
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2_MarkupCompile.cache
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2_MarkupCompile.lref
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\MainWindow.baml
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.g.resources
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\_Prj__WPF__Game___Save_the_Human2.Properties.Resources.resources
+C:\Users\Hyeoksu Lee\Desktop\[Prj][WPF] Game - Avoid the rain\[Prj][WPF] Game - Save the Human2\obj\Debug\[Prj][WPF] Game - Save the Human2.csproj.GenerateResource.Cache
